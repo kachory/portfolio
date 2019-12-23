@@ -1,3 +1,3 @@
 # portfolio
 
-This is my first website.
+Beginning of programm learning...
